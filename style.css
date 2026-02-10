@@ -199,8 +199,8 @@ input:checked + .toggle-label { color: #fff; font-weight: bold; }
 }
 
 .star-icon {
-    width: 1em;
-    height: 1em;
+    width: 2em;
+    height: 2em;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -212,4 +212,5 @@ input:checked + .toggle-label { color: #fff; font-weight: bold; }
     object-fit: contain;
     transform-origin: center;
     animation: rotating 10s linear infinite;
+
 }
