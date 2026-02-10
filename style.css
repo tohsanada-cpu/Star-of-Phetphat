@@ -156,7 +156,7 @@ input:checked + .toggle-label { color: #fff; font-weight: bold; }
 }
 
 .star-name {
-    font-size: 12px;
+    font-size: 30px;
     margin-top: 4px;
     white-space: nowrap;
 }
@@ -199,8 +199,8 @@ input:checked + .toggle-label { color: #fff; font-weight: bold; }
 }
 
 .star-icon {
-    width: 4em;
-    height: 4em;
+    width: 3em;
+    height: 3em;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -214,4 +214,5 @@ input:checked + .toggle-label { color: #fff; font-weight: bold; }
     animation: rotating 10s linear infinite;
 
 }
+
 
